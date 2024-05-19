@@ -13,9 +13,9 @@ const messageSchema = new mongoose.Schema(
 			required: true,
 		},
 		message: {
-			type: String,
-			required: true,
-		},
+			iv: { type: String, required: true },
+			content: { type: String, required: true },
+		  },
 		// createdAt, updatedAt
 	},
 	{ timestamps: true }
