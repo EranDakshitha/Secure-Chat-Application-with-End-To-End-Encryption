@@ -65,7 +65,7 @@ This project is for Secure Software Systems Project.
 
 ## Contact
 
-For any questions or suggestions, feel free to contact the project maintainer.
+For any questions or suggestions, feel free to contact.
 
 ---
 
