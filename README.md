@@ -41,11 +41,13 @@ Follow these steps to get the project up and running on your local machine:
 4. **Run the Project:**
     - In the `client` directory, start the development server:
       ```bash
+      npm i
       npm run dev
       ```
     - In the `server` directory, start the Node.js server:
       ```bash
-      node server.js
+      npm i
+      npm start
       ```
 
 5. **Connect to MongoDB:**
